@@ -1,0 +1,75 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++28ED1F2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++9421B62" : {
+
+    },
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++96E829E" : {
+
+    },
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++4CD74F8" : {
+
+    },
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++D7D0712" : {
+
+    },
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++D1593C4" : {
+
+    },
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++28ED1F2" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++9421B62" : 0,
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++96E829E" : 0,
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++4CD74F8" : 0,
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++D7D0712" : 0,
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++D1593C4" : 0,
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++28ED1F2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BDF3BB8F-25F1-46CE-80A1-97CCB6D2EA09",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++9421B62" : "IOS_FZKT_Teacher\/",
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++96E829E" : "SSX-Teacher\/",
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++4CD74F8" : "%E6%89%AB%E6%89%AB%E5%AD%A6(%E8%80%81%E5%B8%88)\/",
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++D7D0712" : "IOS_FZKT_Teacher\/",
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++D1593C4" : "FZKT_Teacher\/",
+    "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++28ED1F2" : "saosaoxue(teacher)\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JlTeacherClassRoom",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JlTeacherClassRoom\/JlTeacherClassRoom.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/ssk-svn.wassk.cn\/svn\/ssk_Mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++28ED1F2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/ssk-svn.wassk.cn\/svn\/ssk_Mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++4CD74F8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/ssk-svn.wassk.cn\/svn\/ssk_Mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++9421B62"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/ssk-svn.wassk.cn\/svn\/ssk_Mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++96E829E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/ssk-svn.wassk.cn\/svn\/ssk_Mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++D1593C4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/ssk-svn.wassk.cn\/svn\/ssk_Mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "23195b92-7fe1-2a47-9d68-82c1691331f1++8594+++D7D0712"
+    }
+  ]
+}

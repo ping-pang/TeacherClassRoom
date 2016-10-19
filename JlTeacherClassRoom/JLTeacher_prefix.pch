@@ -1,0 +1,27 @@
+//
+//  JLTeacher_prefix.pch
+//  JlTeacherClassRoom
+//
+//  Created by app on 15/11/30.
+//  Copyright © 2015年 app. All rights reserved.
+//
+
+#ifndef JLTeacher_prefix_pch
+#define JLTeacher_prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#ifdef __OBJC__
+#ifdef DEBUG
+#define CLog(format, ...) NSLog(format, ## __VA_ARGS__)
+#else
+#define CLog(format, ...)
+#endif
+
+#endif
+#import "JlTeacherClassRoomDef.h"
+#import "HTTPManage.h"
+#import "UserModel.h"
+#endif /* JLTeacher_prefix_pch */
+
